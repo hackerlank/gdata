@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ztgame.shujubu</string>
+				<string>com.ztgame.shujubuweb</string>
 				<key>bundle-version</key>
 				<string>e1.0</string>
 				<key>kind</key>
